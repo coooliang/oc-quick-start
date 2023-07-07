@@ -1,18 +1,3 @@
-PODS:
-  - YYCategories (1.0.4):
-    - YYCategories/no-arc (= 1.0.4)
-  - YYCategories/no-arc (1.0.4)
-
-DEPENDENCIES:
-  - YYCategories (= 1.0.4)
-
-SPEC REPOS:
-  https://github.com/CocoaPods/Specs.git:
-    - YYCategories
-
-SPEC CHECKSUMS:
-  YYCategories: 6bcd4314c6661a561410dce4a793379ebd306abd
-
-PODFILE CHECKSUM: d5c9fd368c503a943a58c7cda299179c5e87ed64
+PODFILE CHECKSUM: 73ddce2b2e93845158079cd2b1dbc3f5bdc89dcf
 
 COCOAPODS: 1.12.1
